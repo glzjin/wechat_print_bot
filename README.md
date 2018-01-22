@@ -31,3 +31,7 @@ python buu.py
 
 1. 扫码登录
 2. 用其他微信号加这个号为好友，随便发句话来获取菜单。
+
+## 感谢
+
+- itchat([https://github.com/littlecodersh/ItChat/](https://github.com/littlecodersh/ItChat/))
