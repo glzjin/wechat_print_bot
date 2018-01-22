@@ -7,7 +7,7 @@ class request_utils(object):
         self.config = buu_config.config
 
     def send_email(self, file_name, printer):
-        destination = ['glzjin@zhaojin97.cn', printer.printer_value]
+        destination = [printer.printer_value]
 
         text_subtype = 'plain'
 
