@@ -1,0 +1,27 @@
+class config(object):
+    admin_id = 1
+
+    redis_addr = 'localhost'
+    redir_port =
+    redis_password = ''
+    redis_db = 10
+
+    mysql_addr = 'localhost'
+    mysql_port = 3306
+    mysql_username = ''
+    mysql_password = ''
+    mysql_database = ''
+
+    version = '20170910'
+
+    fail_clean = ['current_printer_id', 'operating', 'inputing', 'current_print_file_name', 'current_print_file_page_count' \
+                    'current_print_file_print_price', 'current_print_create_time', 'current_page', \
+                    'total_page', 'word', 'operating', 'print_amount', 'in_processing_file']
+    print_price = 0.2
+
+    smtp_server = ''
+    smtp_username = ''
+    smtp_sender = ''
+    smtp_password = ''
+
+    convert_api = 'oGeKbZ6U_n1cYYYkUC6jsjD1HO1BYTg2JHPjZHq3liMzPI7NxHyu-zG35gNVYcVa7B0pNJAMSPK5-JvlwitJKw'
