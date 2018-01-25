@@ -11,7 +11,7 @@
 ```
 git clone https://github.com/glzjin/wechat_print_bot.git
 cd wechat_print_bot
-pip
+pip install -r requirements.txt
 ```
 
 ## 配置
