@@ -2,4 +2,4 @@ SQLObject==3.4.0
 redis==2.10.6
 cloudconvert==1.0.0
 itchat==1.3.9
-PyPDF2==1.26.0
+PyPDF2==2.10.6
